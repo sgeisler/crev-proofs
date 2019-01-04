@@ -1,0 +1,22 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-01-03T23:24:23.202462022-08:00"
+from:
+  id-type: crev
+  id: PsZpvSBnJZWgksXDMU1IyKFftHG6_SnsbdbYBBqk0mg
+  url: "https://github.com/sgeisler/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: lightning-invoice
+  version: 0.1.0
+  revision: 7a28ab460f2c19cd26246ec4c345ffc00027ced4
+  digest: _Dnw1LChWEChVzkoXM1FWFi1fm5CPMyPkmS_Lr75GHM
+review:
+  thoroughness: medium
+  understanding: high
+  rating: positive
+comment: "I'm the author"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+BzCwqfw7Ktr1cbySkDFGwbeBkv7MjKMwK2aaJu1AQ9hopwZCpz2SMv_pM3KN9usvNA7l0y8KkAJBQD5q5IP9AA
+-----END CREV PACKAGE REVIEW-----
+
