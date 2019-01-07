@@ -20,3 +20,24 @@ comment: "I'm the author"
 BzCwqfw7Ktr1cbySkDFGwbeBkv7MjKMwK2aaJu1AQ9hopwZCpz2SMv_pM3KN9usvNA7l0y8KkAJBQD5q5IP9AA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-01-07T14:25:16.674807600-08:00"
+from:
+  id-type: crev
+  id: PsZpvSBnJZWgksXDMU1IyKFftHG6_SnsbdbYBBqk0mg
+  url: "https://github.com/sgeisler/crev-proofs.git"
+package:
+  source: "https://crates.io"
+  name: bitcoin_hashes
+  version: 0.1.0
+  revision: 2282ef13e825f3bca36d79310048a6d83c9a8d63
+  digest: GvnbMN3GwVCaPnHGMJMTjHf0laHzlvDVNQf2yVWur4U
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+PhEyQmYqHrM6SpTJe38o1uzsAGL2n_OwXW0VbgJNbdmKubXeDpnVJmnanUNANQdf0ka2aQ7xrEe-yFz8LmIDBA
+-----END CREV PACKAGE REVIEW-----
+
